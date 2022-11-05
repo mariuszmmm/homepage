@@ -1,7 +1,7 @@
 .section__container {
     overflow: auto;
     max-width: 360px;
-    max-height: 495px;
+    max-height: 500px;
     margin: auto;
     padding: 0px 25px 0px;
 }
@@ -24,7 +24,7 @@
 .section__foto {
     width: 100px;
     height: inherit;
-    border: 2px solid rgb(60, 174, 182);
+    border: 2px solid #3caeb6;
     border-radius: 50%;
     position: fixed;
     margin-left: -150px;
@@ -44,4 +44,23 @@
 .section__link:active {
     font-weight: 700;
     text-decoration: none;
+}
+
+.section__button {
+    font-family: sans-serif;
+    font-weight: 900;
+    width: 100px;
+    border: 2px solid #3caeb6;
+    position: fixed;
+    margin-left: -140px;
+    margin-top: 400px;
+    box-shadow: -15px 20px 40px 5px #1b1915;
+}
+
+.section__buttonTextEng {
+    color: #777;
+}
+
+.section__buttonTextPl {
+    color: #777;
 }
