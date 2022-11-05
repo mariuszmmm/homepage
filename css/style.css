@@ -11,6 +11,7 @@ html {
     background-image: url("../images/background.jpg");
     resize: both;
     margin-top: 105px;
+    margin-bottom: 140px;
     background-repeat: no-repeat;
     background-size: auto;
     background-attachment: local;
