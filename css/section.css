@@ -6,21 +6,6 @@
     padding: 0px 25px 0px;
 }
 
-.section__header {
-    font-size: 14px;
-    margin-bottom: 1px;
-}
-
-.section__header--main {
-    font-size: 20px;
-}
-
-.section__text {
-    font-size: 13px;
-    margin-top: 1px;
-    line-height: 1.5;
-}
-
 .section__foto {
     width: 100px;
     height: inherit;
@@ -30,20 +15,6 @@
     margin-left: -150px;
     margin-top: 0px;
     box-shadow: -15px 20px 40px 5px #1b1915;
-}
-
-.section__link {
-    color: rgb(10, 126, 0);
-    text-decoration: none;
-}
-
-.section__link:hover {
-    text-decoration: underline;
-}
-
-.section__link:active {
-    font-weight: 700;
-    text-decoration: none;
 }
 
 .section__button {
