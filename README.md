@@ -3,7 +3,7 @@
 
 Check it out:     -->    https://mariuszmmm.github.io/homepage/     <--
 #
-![About me](/images/share.png)
+![About me](/images/aboutme.gif)
 
 
 #
