@@ -18,6 +18,7 @@
 }
 
 .section__button {
+    color:black;
     font-family: sans-serif;
     font-weight: 900;
     width: 100px;
@@ -28,10 +29,10 @@
     box-shadow: -15px 20px 40px 5px #1b1915;
 }
 
-.section__buttonTextEng {
+.section__colorActivLang {
     color: #777;
 }
 
-.section__buttonTextPl {
+/* .section__buttonTextPl {
     color: #777;
-}
+} */
