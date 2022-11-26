@@ -18,7 +18,7 @@
 }
 
 .section__button {
-    color:black;
+    color:#777;
     font-family: sans-serif;
     font-weight: 900;
     width: 100px;
@@ -31,5 +31,5 @@
 }
 
 .section__colorActivLang {
-    color: #777;
+    color: black;
 }
