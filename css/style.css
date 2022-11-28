@@ -3,6 +3,24 @@ html {
     zoom: 200%;
 }
 
+@media (min-width: 767px) and (max-width: 1200px) {
+    html {
+        zoom: 125%;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 766px) {
+    html {
+        zoom: 70%;
+    }
+}
+
+@media (max-width: 424px) {
+    html {
+        zoom: 50%;
+    }
+}
+
 *, ::after, ::before {
     box-sizing: inherit;
 }
