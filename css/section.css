@@ -12,9 +12,9 @@
     border: 2px solid rgb(0, 126, 78);
     border-radius: 35%;
     position: fixed;
-    margin-left: -138px;
+    margin-left: 340px;
     margin-top: 0px;
-    box-shadow: 5px -5px 10px 2px hsl(35, 93%, 5%);
+    box-shadow: 5px -5px 10px 2px hsl(35deg 93% 5%);
 }
 
 .section__button {
@@ -25,8 +25,8 @@
     border: 2px solid rgb(0, 126, 78);
     border-radius: 3%;
     position: fixed;
-    margin-left: -138px;
-    margin-top: 150px;
+    margin-left: 340px;
+    margin-top: 130px;
     box-shadow: 5px -5px 10px 2px hsl(35, 93%, 5%);
 }
 
