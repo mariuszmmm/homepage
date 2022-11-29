@@ -18,7 +18,7 @@
 }
 
 .section__button {
-    color:#777;
+    color: #777;
     font-family: sans-serif;
     font-weight: 900;
     width: 100px;
@@ -28,6 +28,10 @@
     margin-left: 340px;
     margin-top: 130px;
     box-shadow: 5px -5px 10px 2px hsl(35, 93%, 5%);
+}
+
+.section__button:hover {
+    cursor: pointer;
 }
 
 .section__colorActivLang {
