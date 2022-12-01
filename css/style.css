@@ -5,6 +5,36 @@ html {
     margin-left: -125px;
 }
 
+@media (min-width: 1024px)  {
+    html {
+        zoom: 180%;
+      }
+}
+
+@media (min-width: 768px)  {
+    html {
+        zoom: 135%;
+      }
+}
+
+@media (min-width: 425px)  {
+    html {
+        zoom: 75%;
+      }
+}
+
+@media (min-width: 375px)  {
+    html {
+        zoom: 65%;
+      }
+}
+
+@media (min-width: 320px)  {
+    html {
+        zoom: 58%;
+      }
+}
+
 *, ::after, ::before {
     box-sizing: inherit;
 }
