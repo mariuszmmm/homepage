@@ -7,13 +7,13 @@
 }
 
 .section__foto {
-    width: 100px;
+    width: 90px;
     height: inherit;
-    border: 2px solid rgb(0, 126, 78);
+    border: 3px solid rgb(18, 53, 31);
     border-radius: 35%;
     position: fixed;
-    margin-left: 340px;
-    margin-top: 0px;
+    margin-left: 345px;
+    margin-top: -20px;
     box-shadow: 5px -5px 10px 2px hsl(35deg 93% 5%);
 }
 
@@ -22,11 +22,11 @@
     font-family: sans-serif;
     font-weight: 900;
     width: 100px;
-    border: 2px solid rgb(0, 126, 78);
+    border: 3px solid rgb(18, 53, 31);
     border-radius: 3%;
     position: fixed;
     margin-left: 340px;
-    margin-top: 130px;
+    margin-top: 90px;
     box-shadow: 5px -5px 10px 2px hsl(35, 93%, 5%);
 }
 
