@@ -1,8 +1,5 @@
 html {
     box-sizing: border-box;
-    zoom: 200%;
-    min-width: 700px;
-    margin-left: -125px;
 }
 
 *, ::after, ::before {
@@ -12,12 +9,5 @@ html {
 .body {
     background-color: #444;
     font-family: 'Courgette', cursive;
-    background-image: url("../images/background.jpg");
-    resize: auto;
-    margin-top: 105px;
-    margin-bottom: 140px;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-attachment: local;
-    background-position: center 55px;
+    margin: 10px auto;
 }

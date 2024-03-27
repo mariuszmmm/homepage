@@ -1,9 +1,9 @@
 .section__container {
-    overflow: auto;
-    max-width: 360px;
-    max-height: 500px;
-    margin: auto;
-    padding: 0px 25px 0px;
+    background-image: url("../images/background.jpg");
+    width: 550px;
+    padding: 80px 150px 80px 80px;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .section__foto {
@@ -12,7 +12,7 @@
     border: 3px solid rgb(18, 53, 31);
     border-radius: 35%;
     position: fixed;
-    margin-left: 345px;
+    margin-left: 355px;
     margin-top: -20px;
     box-shadow: 5px -5px 10px 2px hsl(35deg 93% 5%);
 }
@@ -25,7 +25,7 @@
     border: 3px solid rgb(18, 53, 31);
     border-radius: 3%;
     position: fixed;
-    margin-left: 340px;
+    margin-left: 350px;
     margin-top: 90px;
     box-shadow: 5px -5px 10px 2px hsl(35, 93%, 5%);
 }
